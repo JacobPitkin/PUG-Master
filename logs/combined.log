@@ -1,0 +1,23 @@
+{"level":"error","timestamp":"2021-10-07T15:31:46.455Z"}
+{"message":"User undefined removed rooms with code 'XSAB'","level":"info","timestamp":"2021-10-07T15:35:24.476Z"}
+{"level":"error","timestamp":"2021-10-07T15:58:19.728Z"}
+{"message":"User undefined removed rooms with code 'L6FT'","level":"info","timestamp":"2021-10-07T15:58:35.586Z"}
+{"level":"error","timestamp":"2021-10-07T15:59:11.766Z"}
+{"message":"User undefined removed rooms with code 'XZ6V'","level":"info","timestamp":"2021-10-07T15:59:22.549Z"}
+{"message":"User undefined created rooms with code 'C7KO'","level":"info","timestamp":"2021-10-07T16:00:43.254Z"}
+{"message":"User undefined removed rooms with code 'C7KO'","level":"info","timestamp":"2021-10-07T16:00:50.301Z"}
+{"message":"User undefined created rooms with code '3CCS'","level":"info","timestamp":"2021-10-07T16:30:29.159Z"}
+{"message":"User undefined created rooms with code 'YTUB'","level":"info","timestamp":"2021-10-07T16:31:40.935Z"}
+{"message":"User undefined removed rooms with code '3CCS'","level":"info","timestamp":"2021-10-07T16:37:36.717Z"}
+{"message":"User undefined created rooms with code 'C3E5'","level":"info","timestamp":"2021-10-07T16:38:59.916Z"}
+{"message":"User undefined created rooms with code '8TVZ'","level":"info","timestamp":"2021-10-07T16:40:53.593Z"}
+{"message":"User undefined got access to rooms with code '8TVZ'","level":"info","timestamp":"2021-10-07T16:41:04.453Z"}
+{"message":"User undefined removed rooms with code '8TVZ'","level":"info","timestamp":"2021-10-07T16:41:29.347Z"}
+{"message":"User undefined created rooms with code 'KVIA'","level":"info","timestamp":"2021-10-07T17:25:13.386Z"}
+{"message":"User undefined got access to rooms with code 'KVIA'","level":"info","timestamp":"2021-10-07T17:25:30.006Z"}
+{"message":"User undefined removed rooms with code 'KVIA'","level":"info","timestamp":"2021-10-07T17:25:39.883Z"}
+{"message":"User undefined got access to rooms with code 'YTUB'","level":"info","timestamp":"2021-10-07T17:26:03.530Z"}
+{"message":"User undefined got access to rooms with code 'YTUB'","level":"info","timestamp":"2021-10-07T17:31:43.634Z"}
+{"message":"User kjohnabbott removed from rooms with code 'C3E5'","level":"info","timestamp":"2021-10-07T18:13:11.299Z"}
+{"message":"User kjohnabbott got access to rooms with code 'C3E5'","level":"info","timestamp":"2021-10-07T18:13:27.876Z"}
+{"message":"User kjohnabbott removed from rooms with code 'C3E5'","level":"info","timestamp":"2021-10-07T18:13:34.472Z"}
