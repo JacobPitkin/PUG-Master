@@ -2,6 +2,7 @@ const logger = require('../utilities/logging.js');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { guildId } = require('../config.json');
 const { InteractionCollector } = require('discord.js');
+const tracKRoom = require('../utilities/roomManagement.js');
 
 module.exports = {
 	data: new SlashCommandBuilder()
@@ -32,6 +33,7 @@ module.exports = {
 
       categoryChannel.permissionOverwrites.create(guildId, { VIEW_CHANNEL: false });
       categoryChannel.permissionOverwrites.create(interaction.user.id, { VIEW_CHANNEL: true });
+      trackRoom(categoryChannel, roomCode);
       logger.info(`User ${interaction.user.username} created rooms with code '${roomCode}'`);
       return interaction.reply({ content: `Created rooms with code '${roomCode}'`, ephemeral: true });
     })
